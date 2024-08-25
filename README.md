@@ -18,9 +18,14 @@ CUSTOMER_SALESVALUE and CUSTOMER_ORDERSVALUE
 - Created relationships between tables for analysis.
 - Add new Measures table Measures and including Profit Margin Ratio, CLTV, and
 Quarter over Quarter Change
-- Then made the visualization as shown in the attached dashboard.
+- Then made the visualization as shown below.
+![Screenshot (16)](https://github.com/user-attachments/assets/4946e7e6-f443-4076-87a8-02fdc1b7295f)
+![Screenshot (15)](https://github.com/user-attachments/assets/ca939981-ccbb-4611-b46f-5000ea554d39)
+![Screenshot (14)](https://github.com/user-attachments/assets/e5a076e3-00f6-48fa-9e10-ea486cb6c546)
+![Screenshot (13)](https://github.com/user-attachments/assets/6f09750f-6792-49a5-bded-f0ade67f61ec)
+![Screenshot (17)](https://github.com/user-attachments/assets/0a55fd9b-0e9f-4388-b62e-c7bfca27ab3b)
 ### Business Insights
-1. Profit and Sales Analysis:
+####1. Profit and Sales Analysis:
 - Highest revenue from "Classic Cars."
 - 2004 had the highest revenue, note that 2005 data covers only five months therefor
 when we compare the sales up to may through the years 2005 is the highest with
@@ -28,12 +33,12 @@ when we compare the sales up to may through the years 2005 is the highest with
 - Major revenue contributors: USA, France, Spain.
 - January to May 2005 revenue surpasses 2003 and 2004.
 - November records the highest monthly revenue, likely due to holidays.
-2. Geographical Insights:
+####2. Geographical Insights:
 - Major revenue contributors: USA, France, Spain his information helps in targeting
 market efforts and optimizing delivery logistics in these countries, and also helps to
 recognize the geographical hotspot for the business..
 -Fastest sales growth in Belgium (2003-2004).
-3. Customer Behavior:
+####3. Customer Behavior:
 - Most sales fall within a specific price range.
 - Best customer Euro Shopping Channel with over 2 million in sales, last order in May
 2005, first purchase in January 2003.
